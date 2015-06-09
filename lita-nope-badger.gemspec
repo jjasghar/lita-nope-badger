@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-nope-badger"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["JJ Asghar"]
   spec.email         = ["jjasghar@gmail.com"]
   spec.description   = "Everyone loves the nope-badger"
